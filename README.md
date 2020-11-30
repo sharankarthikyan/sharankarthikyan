@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Learning Application 📚
 - 🌱 I’m currently learning many things day by day 📖
-- 👯 I’m looking to collaborate on React projects <img src="https://img.icons8.com/nolan/25/react-native.png"/>
+- 👯 I’m looking to collaborate on React projects
 
 
 
@@ -12,8 +12,10 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sharan Spotify Playing" width="350" />](https://open.spotify.com/user/2nkzole4gi7dywaqgjhko10qf)
 <br/>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sharankarthikyan)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sharankarthikyan&count_private=true&show_icons=true&theme=flag-india))](https://github.com/anuraghazra/github-readme-stats)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sharankarthikyan&repo=notes-taking-app-using-reactJS)](https://github.com/sharankarthikyan/notes-taking-app-using-reactJS)
 
 <!--
 ### Connect with me:
