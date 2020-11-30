@@ -2,8 +2,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sharan Spotify Playing" width="350" />]
-(https://open.spotify.com/user/2nkzole4gi7dywaqgjhko10qf)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sharan Spotify Playing" width="350" />](https://open.spotify.com/user/2nkzole4gi7dywaqgjhko10qf)
 
 <!--
 **sharankarthikyan/sharankarthikyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
