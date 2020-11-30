@@ -13,9 +13,15 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sharan Spotify Playing" width="350" />](https://open.spotify.com/user/2nkzole4gi7dywaqgjhko10qf)
 <br/>
 <br/>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sharankarthikyan&count_private=true&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sharankarthikyan&count_private=true&show_icons=true&theme=calm)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sharankarthikyan&repo=notes-taking-app-using-reactJS&theme=calm)](https://github.com/sharankarthikyan/notes-taking-app-using-reactJS)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharankarthikyan&theme=calm&layout=compact)
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sharankarthikyan&theme=calm)
+
+
 
 <!--
 ### Connect with me:
