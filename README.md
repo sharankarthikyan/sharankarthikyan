@@ -15,11 +15,12 @@
 <br/>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sharankarthikyan&count_private=true&show_icons=true&theme=calm)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sharankarthikyan&repo=notes-taking-app-using-reactJS&theme=calm)](https://github.com/sharankarthikyan/notes-taking-app-using-reactJS)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharankarthikyan&theme=calm&layout=compact)
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sharankarthikyan&theme=calm)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sharankarthikyan&repo=notes-taking-app-using-reactJS&theme=calm)](https://github.com/sharankarthikyan/notes-taking-app-using-reactJS)
 
 
 
