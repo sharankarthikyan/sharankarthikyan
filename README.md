@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **[NULL]**.
 
-- 👨‍💻 All of my projects are available at [building](building).
+- 👨‍💻 Here is my [resume](https://sharankarthikeyan.ml/).
 
 - 📝 I regulary write articles on [[NULL]]([NULL]).
 
