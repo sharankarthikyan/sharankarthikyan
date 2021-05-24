@@ -37,7 +37,7 @@
 <a href="https://linkedin.com/in/sharan-k-ba33aa171" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sharan-k-ba33aa171" height="30" width="40" /></a>
 <a href="https://codesandbox.com/sharankarthikyan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="sharankarthikyan" height="30" width="40" /></a>
 <a href="https://fb.com/sharankarthikeyan0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sharankarthikeyan0" height="30" width="40" /></a>
-<a href="https://instagram.com/sharankarthikeyan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sharankarthikeyan" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/sharankarthikeyan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sharankarthikeyan" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/sharank" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sharank" height="30" width="40" /></a>
 </p>
 
