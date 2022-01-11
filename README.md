@@ -13,19 +13,11 @@
 
 - 👯 I’m looking to collaborate on **React Projects**.
 
-- 🤝 I’m looking for help with **[NULL]**.
-
-- 👨‍💻 Here is my [portfolio](https://sharankarthikeyan.ml/).
-
-- 📝 I regulary write articles on [[NULL]]([NULL]).
+<!-- - 👨‍💻 Here is my [portfolio](https://sharankarthikeyan.ml/). -->
 
 - 💬 Ask me about **react, bootstrap, material-ui, semantic-ui, etc,.**
 
 - 📫 How to reach me **karthikeyansharan00@gmail.com**
-
-- 📄 Know about my experiences [[NULL]]([NULL]).
-
-- ⚡ Fun fact **[NULL]**.
 
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
