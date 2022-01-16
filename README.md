@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharan</h1>
-<h3 align="center">A passionate developer and designer from India.</h3>
+<h3 align="center">A passionate designer and developer from India.</h3>
 
 <img src="./assets/images/SharanBanner.png"/>
 
