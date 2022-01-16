@@ -35,7 +35,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharankarthikyan&show_icons=true&locale=en&layout=compact" alt="sharankarthikyan" /></p>
-
+</br></br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sharankarthikyan&show_icons=true&locale=en" alt="sharankarthikyan" /></p>
 
 <!--<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=sharankarthikyan" alt="sharankarthikyan" /></p>-->
