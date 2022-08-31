@@ -34,7 +34,7 @@
 </p>
 
 <div style="width: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharankarthikyan&show_icons=true&locale=en&layout=compact" alt="sharankarthikyan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharankarthikyan&show_icons=true&locale=en&layout=compact" alt="sharankarthikyan" /></p> <br/>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sharankarthikyan&show_icons=true&locale=en" alt="sharankarthikyan" /></p>
 </div>
 <!--<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=sharankarthikyan" alt="sharankarthikyan" /></p>-->
