@@ -7,11 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharankarthikyan" alt="sharankarthikyan" /></a> </p>
 
-<!-- - 👨‍💻 Here is my [portfolio](https://sharankarthikeyan.ml/). -->
-
-- 💬 Ask me about **react, bootstrap, material-ui, semantic-ui, etc,.**
-
-- 📫 How to reach me **karthikeyansharan00@gmail.com**
 
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
