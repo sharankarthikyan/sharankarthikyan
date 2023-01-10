@@ -7,12 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharankarthikyan" alt="sharankarthikyan" /></a> </p>
 
-- 🔭 I’m currently working on **many things**.
-
-- 🌱 I’m currently learning **many things day by day**.
-
-- 👯 I’m looking to collaborate on **React Projects**.
-
 <!-- - 👨‍💻 Here is my [portfolio](https://sharankarthikeyan.ml/). -->
 
 - 💬 Ask me about **react, bootstrap, material-ui, semantic-ui, etc,.**
