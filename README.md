@@ -32,9 +32,3 @@
 <!-- <a href="https://instagram.com/sharankarthikeyan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sharankarthikeyan" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/sharank" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sharank" height="30" width="40" /></a>
 </p>
-
-<div style="width: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharankarthikyan&show_icons=true&locale=en&layout=compact" alt="sharankarthikyan" /></p> <br/><br/><br/><br/><br/><br/><br/><br/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sharankarthikyan&show_icons=true&locale=en" alt="sharankarthikyan" /></p>
-</div>
-<!--<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=sharankarthikyan" alt="sharankarthikyan" /></p>-->
